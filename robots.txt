@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohleexaht.bgricker.com/sitemap.xml
